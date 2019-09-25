@@ -24,6 +24,9 @@ Then, calibrate for specific size and evaluate using
 ```
 python evaluate.py ./results/cifar10_mixsize_d/checkpoint.pth.tar --dataset cifar10 -b 64 --input-size 32 --calibrate-bn
 ```
+
+## Pretrained models
+Pretrained models (ResNet50, ImageNet) are available [here](https://www.dropbox.com/sh/058gqn562vfspa3/AACBukNaWV0_ElwmqBHdsolGa?dl=0)
     
 ## Dependencies
 
