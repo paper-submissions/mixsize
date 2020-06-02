@@ -11,7 +11,7 @@ It is based off [imagenet example in pytorch](https://github.com/pytorch/example
  
  To clone:
  ```
- git clone --recursive https://github.com/paper-submissions/mix-match
+ git clone --recursive https://github.com/paper-submissions/mixsize
  ```
  
 This code can be used to replicate results from "Mix & Match: training convnets with mixed image sizes for improved accuracy, speed and scale resiliency"
