@@ -1,4 +1,4 @@
-# Mix \& Match
+# Mixsize: Training Convnets With Mixed Image Sizes for Improved Accuracy, Speed and Scale Resiliency
 
 This is a complete training example for Deep Convolutional Networks on various datasets (ImageNet, Cifar10, Cifar100, MNIST).
 
